@@ -1,0 +1,23 @@
+{
+  "name": "__app_name__",
+  "version": "0.0.0",
+  "description": "__description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SiqiLu/__app_name__"
+  },
+  "keywords": ["__keyword__"],
+  "author": "Siqi Lu <lu.siqi@outlook.com> (https://github.com/SiqiLu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiqiLu/__app_name__/issues"
+  },
+  "homepage": "https://github.com/SiqiLu/__app_name__",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
