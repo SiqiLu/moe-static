@@ -1,11 +1,4 @@
-﻿/*!
- * moe UI Gruntfile
- * http://ui.moe.click
- * Copyright 2013-2015 Siqi Lu
- * Licensed under MIT
- */
-
-module.exports = function(grunt) {
+﻿module.exports = function(grunt) {
   'use strict';
 
   grunt.initConfig({
